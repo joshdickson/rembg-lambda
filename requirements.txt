@@ -1,0 +1,4 @@
+boto3
+Pillow
+rembg[cpu,cli]
+numpy<2

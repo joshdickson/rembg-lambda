@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+
+# Image or output artifacts not meant to be committed
+processed_*.png
+response.json
+sample.txt
+deploy_lambda.sh
+
+# Credentials or environment files (if any)
+.env
